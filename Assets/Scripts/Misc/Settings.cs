@@ -35,7 +35,7 @@ public static class Settings
     static Settings()
     {
         // player animation parameters
-        xInput = Animator.StringToHash("xinput");
+        xInput = Animator.StringToHash("xInput");
         yInput = Animator.StringToHash("yInput");
         isWalking = Animator.StringToHash("isWalking");
         isRunning = Animator.StringToHash("isRunning");
