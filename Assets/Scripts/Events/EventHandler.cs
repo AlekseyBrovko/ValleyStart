@@ -29,6 +29,6 @@ public static class EventHandler
                 isLiftingToolRight, isLiftingToolLeft, isLiftingToolUp, isLiftingToolDown,
                 isPickingRight, isPickingLeft, isPickingUp, isPickingDown,
                 isSwingingToolRight, isSwingingToolLeft, isSwingingToolUp, isSwingingToolDown,
-                isIdleUp, isIdleDown, isIdleLeft, isIdleRight)
+                isIdleUp, isIdleDown, isIdleLeft, isIdleRight);
     }
 }
